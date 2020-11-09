@@ -2,7 +2,7 @@
 namespace clases\ctrl_session;
 class Ctrl_Session
 {
-    //cremos las claves y guardamos en variables
+    //creamos las clave y lo guardamos en variables
     private static $login_usuario = "login_usuario";
     private static  $id_usuario="id_usuario";
     private static $nombre_usuario = "nombre_usuario";
